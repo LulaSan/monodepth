@@ -1,4 +1,4 @@
-hi there
+hi there, this is a modified repo by LulaSan
 # monodepth
 Tensorflow implementation of unsupervised single image depth prediction using a convolutional neural network.
 
